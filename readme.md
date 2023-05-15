@@ -1,4 +1,6 @@
-## A simple project template for testing libraries in C using the LLVM toolset, Make and valgrind
+## A pretty simple UDP server client hello echo
+
+Feel free to do any modifications
 
 * Have the LLVM toolchain installed eg __clangd__ for IDE extensions, __clang-format__ for formatting the document, __lldb-vscode__ for __spacemacs__ and __lldb__ as well as __clang-format__ extensions in __vscode__
 
